@@ -1,0 +1,23 @@
+[
+  {
+    "Product Name": "Widget X",
+    "Active": true,
+    "Product Code": "WX123",
+    "Product Family": "Widgets",
+    "Product Description": "Widget X is a high-performance widget designed for various industrial applications."
+  },
+  {
+    "Product Name": "Gizmo Y",
+    "Active": false,
+    "Product Code": "GY456",
+    "Product Family": "Gizmos",
+    "Product Description": "Gizmo Y is a compact and versatile device suitable for household use."
+  },
+  {
+    "Product Name": "Thingamajig Z",
+    "Active": true,
+    "Product Code": "TZ789",
+    "Product Family": "Thingamajigs",
+    "Product Description": "Thingamajig Z is an advanced gadget with state-of-the-art features."
+  }
+]
